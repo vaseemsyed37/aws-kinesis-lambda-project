@@ -1,4 +1,7 @@
-## Project Screenshots
+## 📸 Screenshots
+
+### AWS Kinesis Lambda Monitoring
+![AWS Kinesis Lambda Monitoring](screenshots/aws-kinesis-lambda-monitoring.png)
 
 ### CloudWatch Logs
 ![CloudWatch Logs](screenshots/cloudwatch_logs.png)
