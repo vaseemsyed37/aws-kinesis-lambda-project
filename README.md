@@ -1,6 +1,7 @@
 ## 📸 Screenshots
 
-### AWS Kinesis Lambda Monitoring
+### # Real-Time Log Processing with AWS Kinesis and Lambda 🚀
+
 ![AWS Kinesis Lambda Monitoring](screenshots/aws-kinesis-lambda-monitoring.png)
 
 ### CloudWatch Logs
