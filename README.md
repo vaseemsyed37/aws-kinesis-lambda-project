@@ -1,3 +1,9 @@
+## Project Screenshots
+
+### CloudWatch Logs
+![CloudWatch Logs](screenshots/cloudwatch_logs.png)
+
+
 # AWS Kinesis & Lambda Log Processing 🚀
 
 This project demonstrates real-time log processing using **AWS Kinesis** and **AWS Lambda**.
